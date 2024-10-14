@@ -2,7 +2,7 @@ Repository ini adalah implementasi dari rekomendasi berita, pencarian, sentimen,
 
 Dapat diakses melalui file github .ipynb langsung dengan link berikut: <br>
 <!-- open github --> 
-[![Open In Github](https://img.shields.io/badge/Open%20In-Github-lightgrey?logo=github)](https://github.com/Ridlo543/news-recommendation/blob/main/sistem-rekomendasi-ner-news.ipynb)
+[![Open In Github](https://img.shields.io/badge/Open%20In-Github-lightgrey?logo=github)](https://github.com/Ridlo543/news-recommendation-NER/blob/main/sistem-rekomendasi-ner-news.ipynb)
 
 atau melalui google colab dengan link berikut: <br> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Tt6gplr0GrDID5gOf8I6D1MIz9Wz6taC/view?usp=sharing)
